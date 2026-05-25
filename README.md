@@ -41,7 +41,3 @@ Twitter: Messi_Arvin
 
 ## Cloud UI:
 ![Alt text](https://github.com/Python-IoT/Smart-IoT-Planting-System/blob/master/arch/environment.png)
-
-
-
-
